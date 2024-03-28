@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\ASUS\\vae_cf\\ml-20m\\ml-20m\\VAE_anneal200.0K_cap2.0E-01\\I-600-200-600-I/model"
+all_model_checkpoint_paths: "C:\\Users\\ASUS\\vae_cf\\ml-20m\\ml-20m\\VAE_anneal200.0K_cap2.0E-01\\I-600-200-600-I/model"
